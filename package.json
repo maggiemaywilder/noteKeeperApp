@@ -1,0 +1,20 @@
+{
+  "name": "noteKeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggiemaywilder/noteKeeperApp.git"
+  },
+  "keywords": [],
+  "author": "Maggie Wilder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggiemaywilder/noteKeeperApp/issues"
+  },
+  "homepage": "https://github.com/maggiemaywilder/noteKeeperApp#readme"
+}
